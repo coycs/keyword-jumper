@@ -17,7 +17,7 @@ Open-source browser extension providing rapid access to keyword information.
 
 ✓ **Multiple ways of use**: button, right-click menu, shortcut key
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sgf3WHkdqUg?si=gkc1NcSBfW1ec-WV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://github.com/coycs/keyword-jumper/assets/94168170/2fd3ed92-a02a-46ac-980b-af5fea935202
 
 ## Start
 use pnpm
