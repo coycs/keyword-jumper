@@ -3,6 +3,8 @@
 </p>
 <h1 align="center">Keyword Jumper</h1>
 
+[![version](https://img.shields.io/chrome-web-store/v/ifcmkddkkaabcbngnlagfmceljadmlif.svg?style=flat-square&logo=googlechrome&logoColor=fff)](https://chrome.google.com/webstore/detail/ifcmkddkkaabcbngnlagfmceljadmlif)
+
 ## Introduction
 
 Open-source browser extension providing rapid access to keyword information.
